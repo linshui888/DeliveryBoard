@@ -128,7 +128,7 @@
         <dependency>
             <groupId>com.github.Ssomar-Developement</groupId>
             <artifactId>SCore</artifactId>
-            <version>3.9.59</version>
+            <version>42.42.42</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
